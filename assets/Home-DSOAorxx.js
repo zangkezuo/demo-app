@@ -1,0 +1,1 @@
+import{b as s,c as a,o as c,d as n,h as r,e,t as l,F as u}from"./index-Cxs7iahU.js";const _=e("hr",null,null,-1),p={class:"wrap"},f={__name:"Home",setup(m){const t=s(),o=a(()=>t.state.count);return(d,i)=>(c(),n(u,null,[r(" 这里是Home页面 "),_,e("div",p,[e("p",null,"count:"+l(o.value),1)])],64))}};export{f as default};
